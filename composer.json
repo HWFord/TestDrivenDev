@@ -1,0 +1,9 @@
+{
+    "autoload": {
+      "psr-0": { "": "src/" }
+    },
+    "require-dev": {
+        "behat/behat": "^3.13",
+        "phpunit/phpunit": "10"
+    }
+}
