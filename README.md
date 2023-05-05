@@ -4,9 +4,14 @@ une fois le server apahche lancé vous pouvez aller sur
 localhost/TestDrivenDev
 
 Il faut ensuite lancer dans le terminal dans le dossier du projet:
+
 npm install
+
 et
+
 composer require --dev behat/behat 
+
+***
 
 # Pour lancer les tests:
 
